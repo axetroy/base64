@@ -2,7 +2,7 @@
 
 ### polyfill
 
-如果浏览器不支持 ``windo.btoa`` 和 ``window.atob`` ，则应用polyfil
+如果浏览器不支持 ``windo.btoa`` 和 ``window.atob`` ，则应用[polyfil](https://github.com/davidchambers/Base64.js)
 
 最终输出 base64 对象
 
