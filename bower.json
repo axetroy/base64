@@ -1,0 +1,18 @@
+{
+  "name": "base64",
+  "description": "",
+  "main": "base64.js",
+  "authors": [
+    "axetroy <troy450409405@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
