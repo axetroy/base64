@@ -11,13 +11,13 @@
 #### npm
 
 ```bash
-npm install base64 --save
+npm install at-base64 --save
 ```
 
 #### bower
 
 ```bower
-bower install base64 --save
+bower install at-base64 --save
 ```
 ```javascript
 var base64 = require('base64');
