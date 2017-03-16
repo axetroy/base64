@@ -1,5 +1,7 @@
 # base64的库
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/base64.svg)](https://greenkeeper.io/)
+
 ### polyfill
 
 如果浏览器不支持 ``windo.btoa`` 和 ``window.atob`` ，则应用[polyfil](https://github.com/davidchambers/Base64.js)
